@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Felip
- *
- */
-module collections {
-}
