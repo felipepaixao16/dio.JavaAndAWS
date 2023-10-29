@@ -23,6 +23,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -40,13 +43,25 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PredicateExemple">
-    <configuration name="AgendaContatos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.List.Set.Pesquisa.AgendaContatos" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Felip\eclipse-workspace\dio.JavaAndAWS\Collections\SpringSecurity\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Atividade">
+    <configuration name="Atividade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividade" />
+      <module name="Collections" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Desafios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Desafios.Desafios" />
       <module name="Collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.List.Set.Pesquisa.*" />
+          <option name="PATTERN" value="Desafios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,25 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CadastroProdutos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.List.Set.Ordenacao.CadastroProdutos" />
+    <configuration name="OrdenacaoPessoa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.List.Ordenacao.OrdenacaoPessoa" />
       <module name="Collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.List.Set.Ordenacao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConsumerExemple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StreamAPI.ConsumerInterface.ConsumerExemple" />
-      <module name="Collections" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StreamAPI.ConsumerInterface.*" />
+          <option name="PATTERN" value="Collections.List.Ordenacao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Atividade" />
+        <item itemvalue="Application.Desafios" />
+        <item itemvalue="Application.OrdenacaoPessoa" />
         <item itemvalue="Application.PredicateExemple" />
         <item itemvalue="Application.SupplierExemple" />
-        <item itemvalue="Application.ConsumerExemple" />
-        <item itemvalue="Application.CadastroProdutos" />
-        <item itemvalue="Application.AgendaContatos" />
       </list>
     </recent_temporary>
   </component>
